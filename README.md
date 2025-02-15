@@ -37,9 +37,4 @@ I'm a **computer science student** interested in **software engineering, machine
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/oanchana-changcharoen-b57005308)  
-
----
-
 ✨ **Let's build something amazing together!** 🚀
